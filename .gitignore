@@ -1,0 +1,6 @@
+*.o
+*~
+*\#*
+vgcore.*
+navy
+units
